@@ -20,5 +20,7 @@ Estudiante del Bootcamp de Desarrollo Web [Laboratoria](https://www.laboratoria.
 
 📫 Contacto: 
 anabelenarroyo21@gmail.com
-ppppp
-linkedin.com/in/ana-belen-arroyo
+<a href="www.linkedin.com/in/ana-belén-arroyo">
+  <img align="left" width="63px" src="https://media.giphy.com/media/FfOmcVNUuRZX7nZBXb/giphy.gif" />
+</a>
+
