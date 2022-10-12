@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Me interesa la investigación y el desarrollo de herramientas tecnológicas y soluciones estratégicas que impacten de manera positiva en el medio ambiente, la sociedad y las organizaciones.
 
-Front-end Developer student at [Laboratoria](https://www.laboratoria.la/)
+Estudiante del Bootcamp de Desarrollo Web [Laboratoria](https://www.laboratoria.la/)
