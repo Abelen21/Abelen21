@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋
 
 <!--
 **Abelen21/Abelen21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Me interesa la investigación y el desarrollo de herramientas tecnológicas y soluciones estratégicas que impacten de manera positiva en el medio ambiente, la sociedad y las organizaciones.
