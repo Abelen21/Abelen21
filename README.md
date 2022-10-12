@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 Me interesa la investigación y el desarrollo de herramientas tecnológicas y soluciones estratégicas que impacten de manera positiva en el medio ambiente, la sociedad y las organizaciones.
 
 Estudiante del Bootcamp de Desarrollo Web [Laboratoria](https://www.laboratoria.la/)
+
+📫 Contacto: 
+anabelenarroyo21@gmail.com
+linkedin.com/in/ana-belen-arroyo
