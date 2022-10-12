@@ -18,6 +18,10 @@ Me interesa la investigación y el desarrollo de herramientas tecnológicas y so
 
 Estudiante del Bootcamp de Desarrollo Web [Laboratoria](https://www.laboratoria.la/)
 
+<a href="www.linkedin.com/in/ana-belén-arroyo">
+  <img align="left" width="63px" src="https://media.giphy.com/media/FfOmcVNUuRZX7nZBXb/giphy.gif" />
+</a>
+
 📫 Contacto: 
 anabelenarroyo21@gmail.com
 <a href="www.linkedin.com/in/ana-belén-arroyo">
