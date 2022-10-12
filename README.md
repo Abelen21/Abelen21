@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Me interesa la investigación y el desarrollo de herramientas tecnológicas y soluciones estratégicas que impacten de manera positiva en el medio ambiente, la sociedad y las organizaciones.
+
+Front-end Developer student at @Laboratoria
