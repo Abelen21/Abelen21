@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Me interesa la investigación y el desarrollo de herramientas tecnológicas y soluciones estratégicas que impacten de manera positiva en el medio ambiente, la sociedad y las organizaciones.
 
 Estudiante del Bootcamp de Desarrollo Web [Laboratoria](https://www.laboratoria.la/)
 
