@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Estudiante del Bootcamp de Desarrollo Web [Laboratoria](https://www.laboratoria.la/).
 
-Dispuesta a aprender y enfrentar desafios, soy una entusiasta de la tecnología.
+Dispuesta a aprender cosas nuevas y enfrentar desafios, soy una entusiasta de la tecnología.
 
 ## Lenguajes de Programación - Tecnologías - Herramientas
 
