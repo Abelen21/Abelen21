@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Estudiante del Bootcamp de Desarrollo Web [Laboratoria](https://www.laboratoria.la/).
 
 Dispuesta a aprender cosas nuevas y enfrentar desafios, soy una entusiasta de la tecnología.
 
