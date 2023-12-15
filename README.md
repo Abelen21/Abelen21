@@ -1,4 +1,4 @@
-### Hola 👋 Soy Belén Arroyo
+### Hola 👋
 
 <!--
 **Abelen21/Abelen21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Dispuesta a aprender cosas nuevas y enfrentar desafios, soy una entusiasta de la tecnología.
+Soy Belén Arroyo. Dispuesta a aprender cosas nuevas y enfrentar desafios, soy una entusiasta de la tecnología.
 
 ## Lenguajes de Programación - Tecnologías - Herramientas
 
