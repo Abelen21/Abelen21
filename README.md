@@ -1,4 +1,4 @@
-### Hola 👋
+### Hello, I'm Belén  👋
 
 <!--
 **Abelen21/Abelen21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-Soy Belén Arroyo. Dispuesta a aprender cosas nuevas y enfrentar desafios, soy una entusiasta de la tecnología.
+Ready to learn new things and take on challenges, I am an enthusiast of technology.
 
-## Lenguajes de Programación - Tecnologías - Herramientas
+## Programming Languages - Technologies - Tools
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,9 +29,7 @@ Soy Belén Arroyo. Dispuesta a aprender cosas nuevas y enfrentar desafios, soy u
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## Contacto
-
-⭐ anabelenarroyo21@gmail.com
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-belén-arroyo)
 
