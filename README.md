@@ -1,4 +1,4 @@
-### Hello, I'm Ana Belén Arroyo 👋
+### Hello, I'm Belén Arroyo 👋
 
 <!--
 **Abelen21/Abelen21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
